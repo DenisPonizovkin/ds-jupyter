@@ -1,0 +1,58 @@
+------------------------------
+https://kb.epam.com/display/EPMCBDCCDS/For+mentees # DS Course main link: 
+------------------------------
+
+------------------------------
+DS Course with Python (man from factor analysis video)
+------------------------------
+https://habr.com/ru/company/JetBrains-education/blog/438058/
+https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/3921/
+
+------------------------------
+Short notes:
+------------------------------
+https://www.machinelearningmastery.ru/statistical-hypothesis-tests-in-python-cheat-sheet/
+https://malev.ru/shpargalka-po-statisticheskomy-analizu/ # Student's test and Mann Whitney
+https://www.coursera.org/lecture/stats-for-data-analysis/primier-primienieniie-kritieriiev-st-iudienta-AiIlr
+https://www.johndcook.com/blog/distributions_scipy/  # Distributions in SciPy 
+https://machinelearningmastery.com/how-to-code-the-students-t-test-from-scratch-in-python/ # Student
+https://drive.google.com/file/d/1WnR4opdrO6Ar_Jd3A7i2R7v74ms5i6BJ/view # Metrics
+https://medium.com/coinmonks/regularization-of-linear-models-with-sklearn-f88633a93a2 # Regression with scipy & scikitlearn
+https://www.datacamp.com/community/tutorials/introduction-factor-analysis # FA
+
+https://stackabuse.com/decision-trees-in-python-with-scikit-learn/ # decision tree
+https://www.geeksforgeeks.org/python-decision-tree-regression-using-sklearn/ # decision tree
+
+https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/ # Categorical encoding 
+http://window.edu.ru/catalog/pdf2txt/796/65796/37226?p_page=3 # stat analyze
+https://towardsdatascience.com/polynomial-regression-bbe8b9d97491 # Regression
+https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155? # explanatory data nalisys
+
+https://medium.com/@julie.yin/use-one-hot-encoding-to-analyze-adult-income-data-and-some-bad-news-for-the-single-people-in-the-cef71f9d47b4 # very good encoding
+https://github.com/janeyin600/Machine_learning_projects/blob/master/adult_income_predictions/Adult_income_predictions.ipynb
+https://medium.com/@jjosephmorrison/one-hot-encoding-to-set-up-categorical-features-for-linear-regression-6bac35661bb6
+https://www.hse.ru/data/2014/12/26/1103966229/mixed_effects_modeling.pdf # regression good presentation
+https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155? #  regression boston
+https://www.analyticsvidhya.com/blog/2016/12/45-questions-to-test-a-data-scientist-on-regression-skill-test-regression-solution/ # 45 questions about regression
+
+=========
+Encoding:
+=========
+https://www.ritchieng.com/machinelearning-one-hot-encoding/
+https://stats.stackexchange.com/questions/224051/one-hot-vs-dummy-encoding-in-scikit-learn # OHE AND REGRESSION
+https://habr.com/ru/post/456294/ # enconing
+https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/ # encoding
+https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-42fd0a43b009 # encoding, cat2vec
+https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512 # encoding, OHE
+
+with pipeline: 
+https://www.dataschool.io/encoding-categorical-features-in-python/
+https://github.com/justmarkham/scikit-learn-videos/blob/master/10_categorical_features.ipynb
+https://towardsdatascience.com/using-functiontransformer-and-pipeline-in-sklearn-to-predict-chardonnay-ratings-9b13fdd6c6fd
+https://jorisvandenbossche.github.io/blog/2018/05/28/scikit-learn-columntransformer/ # make_column_transformer  
+http://onnx.ai/sklearn-onnx/auto_examples/plot_complex_pipeline.html 
+=========
+PANDAS:
+=========
+loc
+https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
